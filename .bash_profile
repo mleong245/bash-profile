@@ -18,6 +18,7 @@ export PATH
 ############################
 
 # Adding Sublime Text 3 to PATH
+# Allows you to use "subl" on command line
 PATH="${PATH}:/Applications/Sublime Text.app/Contents/SharedSupport/bin"
 export PATH
 
